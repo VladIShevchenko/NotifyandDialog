@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notify and Dialog</string>
+    <string name="email">Title</string>
+    <string name="title">Edit Listing</string>
+    <string name="key">Text</string>
+    <string name="signin">NEVERMIND</string>
+    <string name="edit">EDIT LISTENING</string>
+    <string name="mind">Nevermind</string>
+    <string name="send">Send Notification</string>
+    <string name="close">Cancel</string>
+
+</resources>
